@@ -9,6 +9,8 @@ completedColumns:
 
 ## Backlog
 
+- [corrigir-todos-os-readmes-que-contem-codigo](tasks/corrigir-todos-os-readmes-que-contem-codigo.md)
+
 ## Todo
 
 - [organizar-aulas-nivel-avançado](tasks/organizar-aulas-nivel-avançado.md)
