@@ -59,7 +59,9 @@ fn alterar_string(s: &mut String) {
 }
 
 ```
+Neste exemplo, o empréstimo imutável permite que a função calcular_comprimento leia o valor da String sem possuir a propriedade dela. O empréstimo mutável na função alterar_string permite que a String seja modificada através da referência mutável.
 
+Esses conceitos ajudam a prevenir erros de acesso inválido à memória, como vazamentos de memória ou condições de corrida, e permitem que o Rust verifique em tempo de compilação se as regras de propriedade e empréstimo estão sendo seguidas corretamente. Isso resulta em código mais seguro e confiável.
 
 ## Resumo:
 A propriedade e o empréstimo são conceitos essenciais em Rust para garantir a segurança de memória e evitar erros comuns de programação. Essas características combinadas permitem que você crie código seguro, concorrente e eficiente, sem a necessidade explícita de um coletor de lixo ou outras técnicas de gerenciamento de memória complexas. Isso torna Rust uma linguagem poderosa para sistemas e aplicações de alto desempenho.
