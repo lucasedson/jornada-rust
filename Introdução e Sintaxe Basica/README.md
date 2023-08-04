@@ -25,13 +25,16 @@ let mut x = 10;
 ```
 
 ### Tipos de Dados:
-Rust tem vários tipos de dados básicos, incluindo inteiros, ponto flutuante, caracteres e booleanos.
+Rust tem vários tipos de dados básicos, incluindo inteiros, ponto flutuante, caracteres, booleanos e array.
 
 ```rust
 let inteiro: i32 = 42;
 let ponto_flutuante: f64 = 3.14;
 let caractere: char = 'A';
 let booleano: bool = true;
+
+let array: [i32; 5] = [1, 2, 3, 4, 5];
+
 
 ```
 ### Constantes:
