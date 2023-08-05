@@ -9,7 +9,6 @@ Em Rust, você pode criar threads para executar tarefas concorrentes usando o m�
 Exemplo de criação de threads em Rust:
 
 ```rust
-Copy code
 use std::thread;
 
 fn main() {
@@ -34,7 +33,6 @@ Quando várias threads acessam e modificam dados compartilhados, é necessário 
 Exemplo de uso de Mutex em Rust:
 
 ```rust
-Copy code
 use std::sync::Mutex;
 
 fn main() {
@@ -63,7 +61,6 @@ Canais são uma forma de comunicação segura entre threads em Rust. O módulo s
 Exemplo de uso de canais em Rust:
 
 ```rust
-Copy code
 use std::sync::mpsc;
 use std::thread;
 

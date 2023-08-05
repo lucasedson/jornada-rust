@@ -8,7 +8,7 @@ Um trait é uma maneira de definir uma funcionalidade que pode ser compartilhada
 Exemplo de definição e implementação de um trait:
 
 ```rust
-Copy code
+
 trait Cumprimentavel {
     fn cumprimentar(&self) -> String;
 }
@@ -29,7 +29,7 @@ Generics permitem que você escreva funções e estruturas de dados que funciona
 Exemplo de função genérica:
 
 ```rust
-Copy code
+
 fn trocar<T>(lista: &mut Vec<T>, indice1: usize, indice2: usize) {
     lista.swap(indice1, indice2);
 }

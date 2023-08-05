@@ -29,7 +29,6 @@ Dominar esses conceitos avançados de ownership é essencial para escrever códi
 ### Exemplo 1: Lifetimes em Funções
 
 ```rust
-Copy code
 fn maior<'a>(x: &'a i32, y: &'a i32) -> &'a i32 {
     if x > y {
         x
@@ -56,7 +55,6 @@ Neste exemplo, a função maior recebe duas referências (&'a i32) e retorna uma
 Exemplo 2: Lifetime em Structs e Métodos
 
 ```rust
-Copy code
 struct Pessoa<'a> {
     nome: &'a str,
 }
