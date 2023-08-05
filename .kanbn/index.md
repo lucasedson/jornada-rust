@@ -11,9 +11,9 @@ completedColumns:
 
 ## Todo
 
-- [organizar-aulas-nivel-avançado](tasks/organizar-aulas-nivel-avançado.md)
-
 ## In Progress
+
+- [organizar-aulas-nivel-avançado](tasks/organizar-aulas-nivel-avançado.md)
 
 ## Done
 
