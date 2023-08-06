@@ -1,4 +1,4 @@
-# Plano de Estudos Rust
+# Jornada Rust - Plano de Estudos
 
 ## Nível Inicial: Fundamentos Básicos
 Duração: 1-2 semanas
@@ -58,14 +58,25 @@ Construa um aplicativo web simples usando Rust.
 Aprenda a usar bibliotecas externas em seus projetos.
 Explore o ecossistema de pacotes do Rust.
 
-### Projeto Pessoal:
-Escolha um projeto que lhe interesse e aplique seus conhecimentos em Rust.
-Pode ser um aplicativo, uma ferramenta de linha de comando, um jogo simples, etc.
+### Projeto Final:
+Criar um backend Rust para uma aplicação web.
 
 ## Recursos Adicionais:
 
 - Livros: "The Rust Programming Language" (também conhecido como "The Rust Book") e "Programming Rust" são ótimos recursos.
 - Documentação oficial do Rust: https://doc.rust-lang.org/
-- Tutoriais e cursos online: Plataformas como Udemy, Coursera e edX oferecem cursos de Rust.
 
 - Lembre-se de ajustar o plano de estudos de acordo com seu ritmo e objetivos pessoais. A prática constante, a resolução de desafios e a participação em comunidades de desenvolvedores Rust podem enriquecer sua jornada de aprendizado.
+
+#
+## Como Utilizar o Plano de Estudos
+
+1. Faça um fork do repositório e coloque o código no seu repositório local.
+2. Faça um clone do repositório e crie um projeto no seu computador.
+3. Utilize o editor de código preferido para escrever o seu código. Eu recomendo o VS Code. (Pois ele conta com várias extensões incluindo um leitor de arquivos Markdown)
+4. Estude e Faça os exercícios.
+5. Sempre commit os seus arquivos para o repositório remoto.
+
+#
+## Considerações Finais:
+Este plano de estudos, foi feito com auxilio de Inteligência Artificial. Provavelmente talvez contenham alguns erros. Mas nada que impeça o aprendizado. Isso aqui é apenas uma Guia para a Jornada Rust.
