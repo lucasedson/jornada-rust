@@ -80,5 +80,7 @@ Criar um backend Rust para uma aplicação web.
 #
 ## Considerações Finais:
 - Este plano de estudos, foi feito com auxilio de Inteligência Artificial. Provavelmente talvez contenham alguns erros. Mas nada que impeça o aprendizado. Isso aqui é apenas uma Guia para a Jornada Rust.
-- Honestidade é importante: Quando estamos aprendendo algo, é muito importante não trapacear. Neste caso, "trapacear" que eu falo é utiliza o Github copilot ou outra ferramente desse propósino neste momento de aprendizado. A IA pode ser uma ferramento para seu conhecimento ou uma bengala para a preguiça. Isso vai depender da forma que você a usa.
+- Honestidade é importante: Quando estamos aprendendo algo, é muito importante não trapacear. Neste caso, "trapacear" que eu falo é utilizar o Github Copilot ou outra ferramenta desse propósito neste momento de aprendizado. A IA pode ser uma ferramenta para seu conhecimento ou uma bengala para a sua preguiça. Isso vai depender da forma que você a usa.
 - Outra coisa importante é manter o foco nos exercícios. Completa-los sempre.
+
+Desvendar uma nova linguagem de programação requer esforço e direção. Com a parceria entre autodidatismo, disciplina e uma pitada de IA, podemos conquistar esse desafio de frente. O caminho está traçado, agora é a hora de mergulhar na Jornada Rust ou explorar outras tecnologias. A escolha é sua.
