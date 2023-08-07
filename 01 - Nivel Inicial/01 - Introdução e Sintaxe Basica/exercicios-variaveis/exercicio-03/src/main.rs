@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    let tem_pets: bool = false;
 }
