@@ -1,3 +1,3 @@
 fn main() {
-    let idade = 27;
+    let idade: i32 = 27;
 }
